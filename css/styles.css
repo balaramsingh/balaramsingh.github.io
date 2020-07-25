@@ -16,6 +16,11 @@
  #152<DarkBlue>02B
  #7fe<new>6b8
  */
+ @media screen and (max-width: 480px) {
+  img {
+       width: 80%;
+  }
+}
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
